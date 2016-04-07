@@ -1,0 +1,30 @@
+body{
+	background-color: #f82c15;
+}
+
+.amarillo {
+	background-color: #f0f00d;
+
+}
+
+.morado {
+	background-color: #b11eaa;
+}
+
+
+div {
+	position: relative;
+	width: 300px;
+	height: 300px;
+	margin-right: auto;
+	margin-left: auto;
+	top: 100px;
+}
+
+div div{
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 150px;
+	height: 150px;
+}
